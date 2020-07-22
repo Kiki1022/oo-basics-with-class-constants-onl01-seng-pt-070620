@@ -8,10 +8,10 @@ class Shoe
     @brand = brand
    if BRANDS.include! brand
     BRANDS << brand
-   end
+   
  else BRANDS
   end
-
+end
   def cobble
     
     puts "Your shoe is as good as new!"
