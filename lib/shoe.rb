@@ -19,5 +19,4 @@ class Shoe
 
 
     
-
 end
